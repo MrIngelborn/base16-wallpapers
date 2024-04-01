@@ -19,3 +19,6 @@ sun:
 ts-code:
   extension: .svg
   output: ts-code
+nix-catppuccin:
+  extension: .svg
+  output: catppuccin
